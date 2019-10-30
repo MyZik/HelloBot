@@ -1,0 +1,8 @@
+framework:
+    router:
+        strict_requirements: ~
+        utf8: true
+
+BoShurikTelegramBotBundle:
+    resource: "@BoShurikTelegramBotBundle/Resources/config/routing.yml"
+    prefix: /_telegram/nhrio
